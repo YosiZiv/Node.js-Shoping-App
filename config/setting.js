@@ -1,0 +1,8 @@
+// THIS IS THE PLACE WHERE YOU PUT YOUR OWN CREDENTAILS
+
+module.exports = {
+    SEND_GRID_KEY: '',
+    MONGO_URL_DEV: '',
+    SECRET_KEY: '',
+    STRIPE_KEY: '',
+};
